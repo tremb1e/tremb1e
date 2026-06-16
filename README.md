@@ -25,9 +25,9 @@ Hi, I'm Tremb1e, a PhD student at University of Chinese Academy of Sciences.
 
 🛠️ **Coding with:**
 <p>
-    <a href="https://github.com/search?q=user%3ATremb1e+is%3Arepo+language%3AGo"><img alt="Go" src="https://img.shields.io/badge/Golang-%2345b8d8.svg?logo=go&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATremb1e+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%233776AB.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ATremb1e+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
+    <a href="https://github.com/search?q=user%3ATremb1e+is%3Arepo+language%3AGo"><img alt="Go" src="https://img.shields.io/badge/Golang-%2345b8d8.svg?logo=go&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></a>
 </p>
 
